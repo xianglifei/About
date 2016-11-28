@@ -1,6 +1,7 @@
 # Public
 - Weibo http://weibo.com/xianglifei
 - Zhihu https://www.zhihu.com/people/xianglifei
+- Github https://github.com/xianglifei
 - Telegram https://telegram.me/xianglifei
 
 # Friends Only
